@@ -1,11 +1,12 @@
-# pc98 한글화 패치 정리
+# pc98 한글 패치 정리
 
 각 폴더 안의 README.md 파일을 확인해 주세요.</br>
 
 |이름|발매|폰트|폴더|
 |--|--|--|--|
-|퍼스트 퀸 3|1993|font_jin|[First Queen III](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/First%20Queen%20III)|
-|퍼스트 퀸 4|1994|font_jin|[First Queen IV](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/First%20Queen%20IV)|
-|와룡전|1994|font_jin|[Garyouden](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Garyouden)|
-|초시공요새 마크로스 3 러브 스토리즈|1994|font_jin|[Macross III](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Macross%20III)|
 |다크 세라핌|1995|font_jin|[Dark Seraphim](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Dark%20Seraphim)|
+|와룡전|1994|font_jin|[Garyouden](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Garyouden)|
+|초시공요새 마크로스 3 러브 스토리즈|1994|font_jin|[Macross ３](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Macross%20３)|
+|파랜드 스토리 １|1993|haha, font_jin|[Farland Story 1](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Farland%20Story%201)|
+|퍼스트 퀸 3|1993|font_jin|[First Queen ３](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/First%20Queen%20３)|
+|퍼스트 퀸 4|1994|font_jin|[First Queen ４](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/First%20Queen%20４)|
