@@ -3,7 +3,7 @@
 * 한글화: Jin.. (red-zine@hanmail.net)
 * 제작자 블로그: http://user.chollian.net/~redvaron
 
-patch 폴더 안의 파일을 이용하고 '파워돌폰트[바탕체].bmp'를 폰트로 이용함
+patch 폴더 안의 파일을 이용하고 '[파워돌폰트[바탕체].bmp](https://github.com/ybaik/pc98-ko-patch/blob/main/patches/Power%20Dolls%202/%ED%8C%8C%EC%9B%8C%EB%8F%8C%ED%8F%B0%ED%8A%B8%5B%EB%B0%94%ED%83%95%EC%B2%B4%5D.bmp)'를 폰트로 이용함
 
 ### 패치내용
 * 캐릭터이름 -- Ｘ
