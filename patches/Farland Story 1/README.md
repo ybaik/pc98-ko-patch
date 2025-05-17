@@ -5,10 +5,23 @@
 * 블로그: https://hyunxx.tistory.com/
 
 기존 한글화된 pc98 파랜드 스토리 1의 한글폰트를 변경하였습니다.
-* derlgels님의 v0.99 버전 패치 (fsworld.ce.to)
 
-### 원본 패치
-* patch 폴더 안의 파일을 이용하고 anex86h.bmp를 이용함
 ### 수정 패치
 * patch-jin 폴더의 파일을 이용
+
+### 원본 패치
+* derlgels님의 v0.99 버전 패치 (fsworld.ce.to)
+* patch 폴더 안의 파일을 이용하고 anex86h.bmp를 이용함
+
+### 원본 설명
+* 에뮬레이터 설정에서 꼭 폰트를 같이 들어있는 anex86.bmp로 지정 해 주시고
+1. config -> wave -> Rate/Buffer를 44Khz로 맞추시고 buffer를 50정도로 설정하세요.
+2. config -> system -> Ext-Ram 체크하시고 값은 8192로 맞춰주세요..
+3. config - > windows -> Full color 체크
+Windows 부분 Use palette animaion 체크
+Draw 부분 Fast 체크
+Palette 부분 Use palette animation 체크
+Mode 부분 Use 32 bit color 체크
+4. 마우스가 창 밖으로 넘어가는 경우엔 Alt+Enter로 풀스크린 모드로 하거나 Alt+Back space 키를 눌러주시면 됩니다.
+그럼 좋은 하루 되시길.
 
