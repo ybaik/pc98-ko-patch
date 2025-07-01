@@ -12,7 +12,7 @@ def main():
             stat[v["localization"]] = 1
         else:
             stat[v["localization"]] += 1
-    
+
     stat = dict(sorted(stat.items(), key=lambda item: item[1], reverse=True))
     print(stat)
     print(f"Total: {len(data.keys())}")
@@ -21,9 +21,5 @@ def main():
         json.dump(data, f, ensure_ascii=False, indent=4, sort_keys=True)
 
 
-
 if __name__ == "__main__":
     main()
-
-
-
