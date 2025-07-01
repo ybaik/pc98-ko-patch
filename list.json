@@ -1,0 +1,521 @@
+{
+    "감금": {
+        "developer": "Illusion",
+        "genre": "ADV",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1995-05-18",
+        "title": {
+            "jpn": "監禁",
+            "kor": "감금"
+        }
+    },
+    "나아가라! 초현상 연구부!!": {
+        "developer": "Nikukyuu",
+        "genre": "ADV",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1996-08-23",
+        "title": {
+            "jpn": "すすめ!超常現象研究部!!",
+            "kor": "나아가라! 초현상 연구부!!"
+        }
+    },
+    "다크 세라핌": {
+        "developer": "K.S.K",
+        "genre": "SRPG",
+        "loc_url": "https://hyunxx.tistory.com",
+        "localization": "천수도인",
+        "release": "1995-07-15",
+        "title": {
+            "eng": "Dark Seraphim",
+            "jpn": "ダークセラフィム",
+            "kor": "다크 세라핌"
+        }
+    },
+    "독립전쟁": {
+        "collected": false,
+        "developer": "Koei",
+        "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/koeimod/138",
+        "localization": "낭만엘리",
+        "release": "1993-09-27",
+        "title": {
+            "eng": "Liberty of Death",
+            "jpn": "独立戦争 ~ リバティ オア デス",
+            "kor": "독립전쟁 - 자유 또는 죽음"
+        }
+    },
+    "동방괴기담": {
+        "collected": false,
+        "developer": "ZUN",
+        "genre": "Shooting",
+        "loc_url": "https://windowstiger.tistory.com/131",
+        "localization": "WindowsTiger",
+        "release": "1998-12-30",
+        "title": {
+            "jpn": "東方夢時空 ~ ~ The Phantasmagoria of Dim.Dream",
+            "kor": "동방괴기담 ~ Mystic Square"
+        }
+    },
+    "동방몽시공": {
+        "collected": false,
+        "developer": "ZUN",
+        "genre": "Shooting",
+        "loc_url": "https://windowstiger.tistory.com/156",
+        "localization": "WindowsTiger",
+        "release": "1997-12-29",
+        "title": {
+            "jpn": "東方夢時空 ~ ~ The Phantasmagoria of Dim.Dream",
+            "kor": "동방몽시공 ~ The Phantasmagoria of Dim. Dream"
+        }
+    },
+    "동방봉마록": {
+        "collected": false,
+        "developer": "ZUN",
+        "genre": "Shooting",
+        "loc_url": "https://windowstiger.tistory.com/130",
+        "localization": "WindowsTiger",
+        "release": "1997-08-15",
+        "title": {
+            "jpn": "東方封魔録 ~ the Story of Eastern Wonderland",
+            "kor": "동방봉마록 ~ The Story of Eastern Wonderland"
+        }
+    },
+    "동방영이전": {
+        "collected": false,
+        "developer": "ZUN",
+        "genre": "Shooting",
+        "loc_url": "https://windowstiger.tistory.com/227",
+        "localization": "WindowsTiger",
+        "release": "1997-08-15",
+        "title": {
+            "jpn": "東方靈異伝とうほうれいいでん ~ The Highly Responsive to Prayers",
+            "kor": "동방영이전 ~ The Highly Responsive to Prayers"
+        }
+    },
+    "동방환상향": {
+        "collected": false,
+        "developer": "ZUN",
+        "genre": "Shooting",
+        "loc_url": "https://windowstiger.tistory.com/111",
+        "localization": "WindowsTiger",
+        "release": "1998-08-14",
+        "title": {
+            "jpn": "東方幻想郷 ~ Lotus Land Story",
+            "kor": "동방환상향 ~ Lotus Land Story"
+        }
+    },
+    "랑펠로": {
+        "collected": false,
+        "developer": "Koei",
+        "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/koeimod/99",
+        "localization": "성군",
+        "release": "1990-10-27",
+        "title": {
+            "eng": "L'empereur",
+            "jpn": "ランペルール",
+            "kor": "랑펠로"
+        }
+    },
+    "레드 아이": {
+        "collected": false,
+        "developer": "Splush Wave",
+        "genre": "Board",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1995-05-18",
+        "title": {
+            "eng": "Red Eye",
+            "kor": "레드 아이"
+        }
+    },
+    "레지널 파워 3 스페셜": {
+        "developer": "Cosmos Computer",
+        "loc_url": "https://pc98library.tistory.com",
+        "localization": "YUI",
+        "release": "1994-12-17",
+        "title": {
+            "jpn": "レジオナルパワー3 スペシャル",
+            "kor": "시저1-로마는 하루 아침에 이루어지지 않았다"
+        }
+    },
+    "마블 쿠킹": {
+        "developer": "Negative",
+        "genre": "Puzzle",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1994-12-16",
+        "title": {
+            "eng": "Marble Cooking",
+            "jpn": "マーブルクッキング",
+            "kor": "마블 쿠킹"
+        }
+    },
+    "마크로스 2 - 스컬리더": {
+        "developer": "Family Soft",
+        "loc_url": "https://hyunxx.tistory.com",
+        "localization": "천수도인",
+        "release": "1994-05-13",
+        "title": {
+            "eng": "Macross Skull Leader",
+            "jpn": "超時空要塞マクロス スカル･リーダー",
+            "kor": "초시공요새 마크로스 - 스컬리더"
+        }
+    },
+    "마크로스 3 - 러브 스토리즈": {
+        "developer": "Family Soft",
+        "loc_url": "https://hyunxx.tistory.com",
+        "localization": "천수도인",
+        "release": "1994-07-29",
+        "title": {
+            "eng": "Macross Love Stories",
+            "jpn": "超時空要塞マクロス ラブ･ストーリーズ",
+            "kor": "초시공요새 마크로스 - 러브 스토리즈"
+        }
+    },
+    "마크로스 4 - 스컬리더 컴플리트 팩": {
+        "developer": "Family Soft",
+        "loc_url": "https://hyunxx.tistory.com",
+        "localization": "천수도인",
+        "release": "1995-07-14",
+        "title": {
+            "eng": "Macross Skull Leader Complete Pack",
+            "jpn": "超時空要塞マクロス スカル･リーダー コンプリートパック",
+            "kor": "초시공요새 마크로스 - 스컬리더"
+        }
+    },
+    "메타녀": {
+        "collected": false,
+        "developer": "Anjin / R-Force Software",
+        "genre": "SRPG",
+        "loc_url": "https://pc98library.tistory.com",
+        "localization": "YUI",
+        "release": "1996-12-20",
+        "title": {
+            "jpn": "メタ女 ~ 府立メタトポロジー大学付属女子高校SP",
+            "kor": "메타녀"
+        }
+    },
+    "사립 깡패 여학원": {
+        "collected": false,
+        "developer": "BMP",
+        "genre": "Card battle",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "19xx-xx-xx",
+        "title": {
+            "eng": "Sucharaka Junior High-School",
+            "jpn": "私立すちゃらか女學院",
+            "kor": "사립 깡패 여학원"
+        }
+    },
+    "샹그리라 1": {
+        "developer": "ELF",
+        "genre": "Strategy",
+        "localization": "Edenrock",
+        "release": "1991-08-28",
+        "title": {
+            "eng": "Shangrlia 1",
+            "jpn": "シャングリラ 1",
+            "kor": "샹그리라 1"
+        }
+    },
+    "샹그리라 2": {
+        "developer": "ELF",
+        "genre": "Strategy",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1993-09-30",
+        "title": {
+            "eng": "Shangrlia 2",
+            "jpn": "シャングリラ 2",
+            "kor": "샹그리라 2"
+        }
+    },
+    "성귀 - 능욕의 가면": {
+        "developer": "Katty",
+        "genre": "ADV",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1997-05-23",
+        "title": {
+            "jpn": "性鬼 ~ 陵辱の仮面",
+            "kor": "성귀 - 능욕의 가면"
+        }
+    },
+    "시저1-로마는 하루 아침에 이루어지지 않았다": {
+        "developer": "Artdink",
+        "loc_url": "https://pc98library.tistory.com",
+        "localization": "YUI",
+        "release": "1995-07-21",
+        "title": {
+            "eng": "Rome wasn't built in a day.",
+            "jpn": "ローマは一日にしてならず",
+            "kor": "시저1-로마는 하루 아침에 이루어지지 않았다"
+        }
+    },
+    "암흑천년왕국": {
+        "developer": "Katty",
+        "genre": "Board",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1993-11-11",
+        "title": {
+            "jpn": "暗黒千年王国 ~ マジカルキュービック",
+            "kor": "암흑 천년왕국 - 매지컬 큐빅"
+        }
+    },
+    "어린 새의 지저귐": {
+        "collected": false,
+        "developer": "Studio B-Room",
+        "genre": "ADV",
+        "loc_url": "https://pc98library.tistory.com",
+        "localization": "YUI",
+        "release": "1997-03-28",
+        "title": {
+            "jpn": "雛鳥の囀",
+            "kor": "어린 새의 지저귐"
+        }
+    },
+    "엔젤 할로": {
+        "developer": "Active",
+        "genre": "ADV",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1996-10-17",
+        "title": {
+            "eng": "Angel Halo",
+            "jpn": "エンジェルハイロウ",
+            "kor": "엔젤 할로"
+        }
+    },
+    "엘": {
+        "developer": "ELF",
+        "genre": "ADV",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1991-06-23",
+        "title": {
+            "eng": "Elle",
+            "jpn": "エル",
+            "kor": "엘"
+        }
+    },
+    "와룡전": {
+        "developer": "Neo Geten",
+        "loc_url": "https://hyunxx.tistory.com",
+        "localization": "천수도인",
+        "release": "1995-04-28",
+        "title": {
+            "jpn": "臥竜伝 - 三国制覇の計",
+            "kor": "와룡전 - 삼국제패의 계략"
+        }
+    },
+    "울티마 1": {
+        "collected": false,
+        "developer": "Origin",
+        "genre": "RPG",
+        "loc_url": "https://cafe.naver.com/msx/12662",
+        "localization": "키티야",
+        "release": "1988-12-21",
+        "title": {
+            "eng": "ULTIMA I - The First Age of Darkness",
+            "jpn": "ウルティマ1 ~ 第1暗黒期",
+            "kor": "울티마 1 - 제1암흑기"
+        }
+    },
+    "울티마 4": {
+        "collected": false,
+        "developer": "Origin",
+        "genre": "RPG",
+        "loc_url": "https://blog.naver.com/kkitty5425/221176789107",
+        "localization": "키티야",
+        "release": "1987-07-18",
+        "title": {
+            "eng": "ULTIMA IV - Quest of the Avatar",
+            "jpn": "ウルティマ4 ~ アバタールの伝説",
+            "kor": "울티마 4 - 아바타의 전설"
+        }
+    },
+    "이스 2": {
+        "collected": false,
+        "developer": "Falcom",
+        "genre": "Action RPG",
+        "loc_url": "https://nsm53p.tistory.com/390",
+        "localization": "NSM53 PROJECT",
+        "release": "1988-06-24",
+        "title": {
+            "eng": "Ys 2",
+            "jpn": "イース2",
+            "kor": "이스 2"
+        }
+    },
+    "자이 메타녀": {
+        "developer": "Anjin / R-Force Software",
+        "genre": "SRPG",
+        "loc_url": "https://pc98library.tistory.com",
+        "localization": "YUI",
+        "release": "1996-12-20",
+        "title": {
+            "jpn": "ツァイ メタ女",
+            "kor": "자이 메타녀"
+        }
+    },
+    "잭 - 배덕의 여신": {
+        "developer": "Silky's",
+        "genre": "ADV",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1995-11-30",
+        "title": {
+            "eng": "Jack",
+            "jpn": "ジャック ~ 背徳の女神",
+            "kor": "잭 - 배덕의 여신"
+        }
+    },
+    "파랜드 스토리 1": {
+        "developer": "TGL",
+        "genre": "SRPG",
+        "localization": "fsworld",
+        "release": "1993-10-15",
+        "title": {
+            "eng": "Farland Story 1",
+            "jpn": "ファーランドストーリー 遠い国の物語",
+            "kor": "파랜드 스토리 1 - 먼 나라의 이야기"
+        }
+    },
+    "파랜드 스토리 2 - 아크왕의 원정": {
+        "developer": "TGL",
+        "genre": "SRPG",
+        "localization": "fsworld",
+        "release": "1994-02-10",
+        "title": {
+            "eng": "Farland Story 2",
+            "jpn": "ファーランドストーリー アーク王の遠征",
+            "kor": "파랜드 스토리 2 - 아크왕의 원정"
+        }
+    },
+    "파랜드 스토리 6 - 신들의 유산": {
+        "developer": "TGL",
+        "genre": "SRPG",
+        "localization": "nizin",
+        "release": "1995-07-21",
+        "title": {
+            "eng": "Farland Story 6",
+            "jpn": "ファーランドストーリー 神々の遺産",
+            "kor": "파랜드 스토리 6 - 신들의 유산"
+        }
+    },
+    "파랜드 스토리 7 - 수왕의 증거": {
+        "developer": "TGL",
+        "genre": "SRPG",
+        "localization": "nizin",
+        "release": "1995-11-10",
+        "title": {
+            "eng": "Farland Story 7",
+            "jpn": "ファーランドストーリー 獣王の証",
+            "kor": "파랜드 스토리 7 - 수왕의 증거"
+        }
+    },
+    "파워 돌 1": {
+        "developer": "Kogado",
+        "loc_url": "https://m.blog.naver.com/wwc2003/30175110398",
+        "localization": "wwc2003 (Unhabby)",
+        "release": "1994-01-14",
+        "title": {
+            "eng": "Power Dolls 1",
+            "jpn": "パワードール 1",
+            "kor": "파워 돌 1"
+        }
+    },
+    "파워 돌 2": {
+        "developer": "Kogado",
+        "localization": "Jin..",
+        "release": "1994-12-02",
+        "title": {
+            "eng": "Power Dolls 2",
+            "jpn": "パワードール 2",
+            "kor": "파워 돌 2"
+        }
+    },
+    "파워 돌 2 대시": {
+        "developer": "Kogado",
+        "localization": "Jin..",
+        "release": "1995-05-26",
+        "title": {
+            "eng": "Power Dolls 2 Dash",
+            "jpn": "パワードール 2 ",
+            "kor": "파워 돌 2 대시"
+        }
+    },
+    "퍼스트 퀸 3": {
+        "developer": "K.S.K",
+        "loc_url": "https://hyunxx.tistory.com",
+        "localization": "천수도인",
+        "release": "1993-07-02",
+        "title": {
+            "eng": "First Queen 3",
+            "jpn": "ファーストクィーン3",
+            "kor": "퍼스트 퀸 3"
+        }
+    },
+    "퍼스트 퀸 4": {
+        "developer": "K.S.K",
+        "loc_url": "https://hyunxx.tistory.com",
+        "localization": "천수도인",
+        "release": "1994-06-10",
+        "title": {
+            "eng": "First Queen 4",
+            "jpn": "ファーストクィーン4 ~ バルシア戦記",
+            "kor": "퍼스트 퀸 4 - 바르시아 전기"
+        }
+    },
+    "프레이": {
+        "collected": false,
+        "developer": "Illusion",
+        "genre": "ADV",
+        "loc_url": "https://blog.naver.com/kkitty5425/221738967829",
+        "localization": "키티야",
+        "release": "1991-12-20",
+        "title": {
+            "eng": "Fray - In magical adventure",
+            "jpn": "フレイ ~ In magical adventure",
+            "kor": "프레이 - In magical adventure"
+        }
+    },
+    "피아캐롯 1": {
+        "developer": "Cocktail Soft",
+        "genre": "ADV",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1996-07-26",
+        "title": {
+            "jpn": "Piaキャロットへようこそ ~ We've been Waiting for you",
+            "kor": "피아캐롯에 어서 오세요"
+        }
+    },
+    "하급생": {
+        "developer": "ELF",
+        "genre": "ADV",
+        "localization": "파랑새팀",
+        "release": "1996-06-07",
+        "title": {
+            "jpn": "下級生",
+            "kor": "하급생"
+        }
+    },
+    "호니 스위퍼 2 - 여학교 위기일발": {
+        "developer": "Mugen",
+        "genre": "SRPG",
+        "loc_url": "https://kkandora.tistory.com",
+        "localization": "K.K",
+        "release": "1995-07-14",
+        "title": {
+            "eng": "Horny Sweeper 2",
+            "jpn": "ホーニースィーパー2 ~ 女子校危機一発",
+            "kor": "호니 스위퍼 2 - 여학교 위기일발"
+        }
+    }
+}
