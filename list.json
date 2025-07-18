@@ -33,8 +33,19 @@
             "kor": "다크 세라핌"
         }
     },
+    "대항해시대 1": {
+        "developer": "Koei",
+        "genre": "Simulation",
+        "loc_url": "https://k66google.tistory.com/782",
+        "localization": "k66goole",
+        "release": "1990-07-26",
+        "title": {
+            "eng": "Uncharted Waters",
+            "jpn": "大航海時代",
+            "kor": "대항해시대 1"
+        }
+    },
     "독립전쟁": {
-        "collected": false,
         "developer": "Koei",
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/koeimod/138",
@@ -209,6 +220,17 @@
             "eng": "Sucharaka Junior High-School",
             "jpn": "私立すちゃらか女學院",
             "kor": "사립 깡패 여학원"
+        }
+    },
+    "삼국지 2": {
+        "developer": "Koei",
+        "genre": "Simulation",
+        "loc_url": "https://k66google.tistory.com/775",
+        "localization": "k66goole",
+        "release": "1990-03-23",
+        "title": {
+            "jpn": "三国志2",
+            "kor": "삼국지 2"
         }
     },
     "샹그리라 1": {
