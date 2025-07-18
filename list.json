@@ -152,6 +152,18 @@
             "kor": "시저1-로마는 하루 아침에 이루어지지 않았다"
         }
     },
+    "로얄 블러드": {
+        "developer": "Koei",
+        "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/f-e/cafes/28702069/articles/499",
+        "localization": "천수도인",
+        "release": "1991-12-21",
+        "title": {
+            "eng": "Royal Blood",
+            "jpn": "ロイヤルブラッド",
+            "kor": "로얄 블러드"
+        }
+    },
     "마블 쿠킹": {
         "developer": "Negative",
         "genre": "Puzzle",
