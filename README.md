@@ -5,7 +5,7 @@
 |이름|발매|폰트|폴더|
 |--|--|--|--|
 |다크 세라핌|1995|font_jin|[Dark Seraphim](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Dark%20Seraphim)|
-|로얄 블러드 1|1991|font_jin|[Royal Blood](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Royal%20Blood%201)|
+|로얄 블러드 1|1991|font_rb1, font_jin|[Royal Blood](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Royal%20Blood%201)|
 |와룡전|1994|font_jin|[Garyouden](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Garyouden)|
 |초시공요새 마크로스 2 스컬리더|1993|font_jin|[Macross 2](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Macross%202)|
 |초시공요새 마크로스 3 러브 스토리즈|1994|font_jin|[Macross 3](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Macross%203)|
