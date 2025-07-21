@@ -118,7 +118,6 @@
         }
     },
     "랑펠로": {
-        "collected": false,
         "developer": "Koei",
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/koeimod/99",
@@ -156,7 +155,7 @@
         "developer": "Koei",
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/f-e/cafes/28702069/articles/499",
-        "localization": "천수도인",
+        "localization": "천수도인,낭만엘리",
         "release": "1991-12-21",
         "title": {
             "eng": "Royal Blood",
@@ -373,7 +372,6 @@
         }
     },
     "이스 2": {
-        "collected": false,
         "developer": "Falcom",
         "genre": "Action RPG",
         "loc_url": "https://nsm53p.tistory.com/390",
@@ -506,7 +504,6 @@
         }
     },
     "프레이": {
-        "collected": false,
         "developer": "Illusion",
         "genre": "ADV",
         "loc_url": "https://blog.naver.com/kkitty5425/221738967829",
