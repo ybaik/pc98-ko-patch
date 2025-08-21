@@ -1,4 +1,4 @@
-# pc98 한글 패치 정리
+# pc98 한글 패치 및 대사 정리
 
 각 폴더 안의 README.md 파일을 확인해 주세요.</br>
 
@@ -18,8 +18,3 @@
 |파워 돌스 2 대쉬|1994|font_pd|[Power Dolls 2 Dash](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Power%20Dolls%202%20Dash)|
 |퍼스트 퀸 3|1993|font_jin|[First Queen 3](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/First%20Queen%203)|
 |퍼스트 퀸 4|1994|font_jin|[First Queen 4](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/First%20Queen%204)|
-
-## 소개 및 항변
-* 제가 '현xx'이자 '천수도인'으로 한글화 했던 자료를 보관차 올려놓습니다.
-* 추가로 같은 시기 활동하시던 jin..님 nizin님의 블로그 접근이 안되어서, 무단 배포하지 말라는 문구에도 그분들의 한글패치를 공개합니다.
-* 그래도 HDD파일 형태로 배포하셨던 것에서, 패치한 파일만을 공개합니다.
