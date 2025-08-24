@@ -154,7 +154,7 @@
     "로얄 블러드": {
         "developer": "Koei",
         "genre": "Strategy",
-        "loc_url": "https://cafe.naver.com/f-e/cafes/28702069/articles/499",
+        "loc_url": "https://cafe.naver.com/koeimod/499",
         "localization": "천수도인,낭만엘리",
         "release": "1991-12-21",
         "title": {
@@ -534,6 +534,18 @@
         "title": {
             "jpn": "下級生",
             "kor": "하급생"
+        }
+    },
+    "항유기": {
+        "developer": "Koei",
+        "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/koeimod/541",
+        "localization": "낭만엘리,닥터존스,천사,천수도인",
+        "release": "1993-07-21",
+        "title": {
+            "eng": "Rise of the Phoenix",
+            "jpn": "項劉記",
+            "kor": "항유기"
         }
     },
     "호니 스위퍼 2 - 여학교 위기일발": {

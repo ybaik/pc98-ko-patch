@@ -1,0 +1,8 @@
+{
+	"06CF2=06CF3": "0x:0509# END.KR1 year text figure offset",
+	"06D1C=06D1D": "0x:0509# END.KR1 year text figure offset",
+	"0974E=0976D": "0x:EA170E00BE240E00AC2F0E00743C0E00FD460E00E5560E00B3620E0045710E00# END.KR1 starting offsets for 8 message figures",
+	"0976E=0977D": "0x:D40CEE0AC80C890AE80FCE0B920E800C# END.KR1 sizes for 8 message figures",
+	"0689C=0689D": "0x:C57D# END.KR1 end figure offset",
+	"068B0=068B1": "0x:DD06# END.KR1 file size"
+}

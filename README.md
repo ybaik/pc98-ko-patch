@@ -18,3 +18,4 @@
 |파워 돌스 2 대쉬|1994|font_pd|[Power Dolls 2 Dash](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Power%20Dolls%202%20Dash)|
 |퍼스트 퀸 3|1993|font_jin|[First Queen 3](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/First%20Queen%203)|
 |퍼스트 퀸 4|1994|font_jin|[First Queen 4](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/First%20Queen%204)|
+|항유기|1993|전용|[Rise of the Phoenix](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Rise%20of%20the%20Phoenix)|
