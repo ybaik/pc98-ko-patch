@@ -1,8 +1,8 @@
 {
-	"06CF2=06CF3": "0x:E60C# END.KR1 year text figure offset",
-	"06D1C=06D1D": "0x:E60C# END.KR1 year text figure offset",
-	"0974E=0976D": "0x:A71B0E00BE2A0E0032370E00BA450E00FB520E00F0620E005E720E001C830E00# END.KR1 starting offsets for 8 message figures",
-	"0976E=0977D": "0x:170F740C880E410DF50F6E0FBE10020F# END.KR1 sizes for 8 message figures",
-	"0689C=0689D": "0x:1E92# END.KR1 end figure offset",
-	"068B0=068B1": "0x:C005# END.KR1 file size"
+    "0689C=0689D": "0x:1992# END.KR1 end figure offset",
+    "068B0=068B1": "0x:C005# END.KR1 file size",
+    "06CF2=06CF3": "0x:E60C# END.KR1 year text figure offset",
+    "06D1C=06D1D": "0x:E60C# END.KR1 year text figure offset",
+    "0974E=0976D": "0x:A71B0E00BE2A0E0032370E00BA450E00FB520E00F0620E005E720E001C830E00# END.KR1 starting offsets for 8 message figures",
+    "0976E=0977D": "0x:170F740C880E410DF50F6E0FBE10FD0E# END.KR1 sizes for 8 message figures"
 }
