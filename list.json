@@ -155,7 +155,7 @@
         "developer": "Koei",
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/koeimod/499",
-        "localization": "천수도인,낭만엘리",
+        "localization": "낭만엘리,천수도인",
         "release": "1991-12-21",
         "title": {
             "eng": "Royal Blood",
@@ -381,6 +381,17 @@
             "eng": "Ys 2",
             "jpn": "イース2",
             "kor": "이스 2"
+        }
+    },
+    "이인도": {
+        "developer": "Koei",
+        "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/koeimod/633",
+        "localization": "낭만엘리,천수도인",
+        "release": "1991-09-27",
+        "title": {
+            "jpn": "伊忍道〜打倒信長",
+            "kor": "이인도~타도 노부나가"
         }
     },
     "자이 메타녀": {
