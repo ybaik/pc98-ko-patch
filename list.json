@@ -175,10 +175,21 @@
             "kor": "마블 쿠킹"
         }
     },
-    "마크로스 2 - 스컬리더": {
+    "마크로스 1 - 리멤버 미": {
         "developer": "Family Soft",
         "loc_url": "https://hyunxx.tistory.com/31",
         "localization": "천수도인,낭만엘리",
+        "release": "1993-03-19",
+        "title": {
+            "eng": "Macross Remember Me",
+            "jpn": "超時空要塞マクロス リメンバー･ミー",
+            "kor": "초시공요새 마크로스 - 스컬리더"
+        }
+    },
+    "마크로스 2 - 스컬리더": {
+        "developer": "Family Soft",
+        "loc_url": "https://hyunxx.tistory.com/31",
+        "localization": "천수도인,낭만엘리,천사",
         "release": "1994-05-13",
         "title": {
             "eng": "Macross Skull Leader",
