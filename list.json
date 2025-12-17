@@ -163,6 +163,18 @@
             "kor": "로얄 블러드"
         }
     },
+    "로커스 알바": {
+        "developer": "Algolab",
+        "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/hansicgu/19652",
+        "localization": "인생역전",
+        "release": "1995-04-21",
+        "title": {
+            "eng": "Locus Alba",
+            "jpn": "ロクス・アルバ",
+            "kor": "로커스 알바"
+        }
+    },
     "마블 쿠킹": {
         "developer": "Negative",
         "genre": "Puzzle",
@@ -220,7 +232,6 @@
         }
     },
     "메타녀": {
-        "collected": false,
         "developer": "Anjin / R-Force Software",
         "genre": "SRPG",
         "loc_url": "https://pc98library.tistory.com",

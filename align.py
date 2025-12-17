@@ -21,7 +21,7 @@ def main():
         print(f"{i:02d}: {k} ({v})")
 
     # Check list for a person
-    person = "낭만엘리"
+    person = ""
     titles = []
     for k, v in data.items():
         if person in v.get("localization", ""):
