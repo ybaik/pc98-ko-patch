@@ -242,6 +242,19 @@
             "kor": "메타녀"
         }
     },
+    "브레인 박사의 성": {
+        "collected": false,
+        "developer": "Sierra Online",
+        "genre": "Puzzle",
+        "loc_url": "https://cafe.naver.com/koreaadv/2902",
+        "localization": "추리소년",
+        "release": "1992-10-09",
+        "title": {
+            "eng": "Castle of Dr. Brain",
+            "jpn": "ドクターブレイン パズルの城",
+            "kor": "브레인 박사의 성"
+        }
+    },
     "사립 깡패 여학원": {
         "collected": false,
         "developer": "BMP",
@@ -437,6 +450,19 @@
             "eng": "Jack",
             "jpn": "ジャック ~ 背徳の女神",
             "kor": "잭 - 배덕의 여신"
+        }
+    },
+    "킹스 퀘스트 5": {
+        "collected": false,
+        "developer": "Sierra Online",
+        "genre": "Advanture",
+        "loc_rul": "https://cafe.naver.com/koreaadv/2799",
+        "localization": "추리소년",
+        "release": "1990-11-09",
+        "title": {
+            "eng": "King's Quest 5",
+            "jpn": "キングスクエストⅤ",
+            "kor": "킹스 퀘스트 5"
         }
     },
     "파랜드 스토리 1": {
