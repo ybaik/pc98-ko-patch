@@ -441,6 +441,18 @@
             "kor": "울티마 4 - 아바타의 전설"
         }
     },
+    "유신의 폭풍": {
+        "developer": "KOEI",
+        "genre": "Simulation",
+        "loc_url": "https://k66google.tistory.com/781",
+        "localization": "개망초",
+        "platform": "PC98",
+        "release": "1988-06",
+        "title": {
+            "jpn": "維新の嵐",
+            "kor": "유신의 폭풍"
+        }
+    },
     "이스 2": {
         "developer": "Falcom",
         "genre": "Action RPG",
@@ -454,7 +466,7 @@
             "kor": "이스 2"
         }
     },
-    "이인도": {
+    "이인도 타도 노부나가": {
         "developer": "KOEI",
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/koeimod/633",

@@ -2,6 +2,7 @@
     "겐페이 전쟁": {
         "developer": "KOEI",
         "genre": "Strategy",
+        "loc_url": "https://cafe.naver.com/koeimod/636",
         "localization": "낭만엘리,닥터존스,천사,파르네제,사각,원취양",
         "platform": "DOS",
         "release": "1994-09-30",
@@ -229,7 +230,7 @@
         "genre": "Strategy",
         "localization": "*비스코",
         "platform": "DOS",
-        "release": "1991",
+        "release": "1989-03",
         "title": {
             "jpn": "水滸伝 ~ 天命の誓い",
             "kor": "수호전 - 천명의 맹세"
@@ -314,7 +315,7 @@
             "kor": "퍼스트 퀸 4 - 바르시아 전기"
         }
     },
-    "푸른 늑대와 하얀 암사슴 2 - 징기스칸": {
+    "푸른 늑대와 하얀 암사슴 - 징기스칸": {
         "developer": "KOEI",
         "genre": "Strategy",
         "localization": "*비스코",
@@ -326,7 +327,7 @@
             "kor": "푸른 늑대와 하얀 암사슴 - 징기스칸"
         }
     },
-    "푸른 늑대와 하얀 암사슴 3 - 원조비사": {
+    "푸른 늑대와 하얀 암사슴 - 원조비사": {
         "developer": "KOEI",
         "genre": "Strategy",
         "localization": "*비스코",
