@@ -4,6 +4,7 @@
         "genre": "ADV",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1995-05-18",
         "title": {
             "jpn": "監禁",
@@ -15,6 +16,7 @@
         "genre": "ADV",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1996-08-23",
         "title": {
             "jpn": "すすめ!超常現象研究部!!",
@@ -26,6 +28,7 @@
         "genre": "SRPG",
         "loc_url": "https://hyunxx.tistory.com/11",
         "localization": "천수도인",
+        "platform": "PC98",
         "release": "1995-07-15",
         "title": {
             "eng": "Dark Seraphim",
@@ -34,10 +37,11 @@
         }
     },
     "대항해시대 1": {
-        "developer": "Koei",
+        "developer": "KOEI",
         "genre": "Simulation",
         "loc_url": "https://k66google.tistory.com/782",
         "localization": "개망초",
+        "platform": "PC98",
         "release": "1990-07-26",
         "title": {
             "eng": "Uncharted Waters",
@@ -46,10 +50,11 @@
         }
     },
     "독립전쟁": {
-        "developer": "Koei",
+        "developer": "KOEI",
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/koeimod/138",
         "localization": "낭만엘리,닥터존스,천사",
+        "platform": "PC98",
         "release": "1993-09-27",
         "title": {
             "eng": "Liberty of Death",
@@ -63,6 +68,7 @@
         "genre": "Shooting",
         "loc_url": "https://windowstiger.tistory.com/131",
         "localization": "WindowsTiger",
+        "platform": "PC98",
         "release": "1998-12-30",
         "title": {
             "jpn": "東方夢時空 ~ ~ The Phantasmagoria of Dim.Dream",
@@ -75,6 +81,7 @@
         "genre": "Shooting",
         "loc_url": "https://windowstiger.tistory.com/156",
         "localization": "WindowsTiger",
+        "platform": "PC98",
         "release": "1997-12-29",
         "title": {
             "jpn": "東方夢時空 ~ ~ The Phantasmagoria of Dim.Dream",
@@ -87,6 +94,7 @@
         "genre": "Shooting",
         "loc_url": "https://windowstiger.tistory.com/130",
         "localization": "WindowsTiger",
+        "platform": "PC98",
         "release": "1997-08-15",
         "title": {
             "jpn": "東方封魔録 ~ the Story of Eastern Wonderland",
@@ -99,6 +107,7 @@
         "genre": "Shooting",
         "loc_url": "https://windowstiger.tistory.com/227",
         "localization": "WindowsTiger",
+        "platform": "PC98",
         "release": "1997-08-15",
         "title": {
             "jpn": "東方靈異伝とうほうれいいでん ~ The Highly Responsive to Prayers",
@@ -111,6 +120,7 @@
         "genre": "Shooting",
         "loc_url": "https://windowstiger.tistory.com/111",
         "localization": "WindowsTiger",
+        "platform": "PC98",
         "release": "1998-08-14",
         "title": {
             "jpn": "東方幻想郷 ~ Lotus Land Story",
@@ -118,10 +128,11 @@
         }
     },
     "랑페뢰르": {
-        "developer": "Koei",
+        "developer": "KOEI",
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/koeimod/572",
         "localization": "낭만엘리,천수도인",
+        "platform": "PC98",
         "release": "1990-10-27",
         "title": {
             "eng": "L'empereur",
@@ -135,6 +146,7 @@
         "genre": "Board",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1995-05-18",
         "title": {
             "eng": "Red Eye",
@@ -145,17 +157,19 @@
         "developer": "Cosmos Computer",
         "loc_url": "https://pc98library.tistory.com",
         "localization": "YUI",
+        "platform": "PC98",
         "release": "1994-12-17",
         "title": {
             "jpn": "レジオナルパワー3 スペシャル",
-            "kor": "시저1-로마는 하루 아침에 이루어지지 않았다"
+            "kor": "레지널 파워 3 스페셜"
         }
     },
     "로얄 블러드": {
-        "developer": "Koei",
+        "developer": "KOEI",
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/koeimod/499",
         "localization": "낭만엘리,천수도인",
+        "platform": "PC98",
         "release": "1991-12-21",
         "title": {
             "eng": "Royal Blood",
@@ -168,6 +182,7 @@
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/hansicgu/19652",
         "localization": "인생역전",
+        "platform": "PC98",
         "release": "1995-04-21",
         "title": {
             "eng": "Locus Alba",
@@ -180,6 +195,7 @@
         "genre": "Puzzle",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1994-12-16",
         "title": {
             "eng": "Marble Cooking",
@@ -191,17 +207,19 @@
         "developer": "Family Soft",
         "loc_url": "https://hyunxx.tistory.com/31",
         "localization": "천수도인,낭만엘리",
+        "platform": "PC98",
         "release": "1993-03-19",
         "title": {
             "eng": "Macross Remember Me",
             "jpn": "超時空要塞マクロス リメンバー･ミー",
-            "kor": "초시공요새 마크로스 - 스컬리더"
+            "kor": "초시공요새 마크로스 - 리멤버 미"
         }
     },
     "마크로스 2 - 스컬리더": {
         "developer": "Family Soft",
         "loc_url": "https://hyunxx.tistory.com/31",
         "localization": "천수도인,낭만엘리,천사",
+        "platform": "PC98",
         "release": "1994-05-13",
         "title": {
             "eng": "Macross Skull Leader",
@@ -213,6 +231,7 @@
         "developer": "Family Soft",
         "loc_url": "https://hyunxx.tistory.com/13",
         "localization": "천수도인,낭만엘리",
+        "platform": "PC98",
         "release": "1994-07-29",
         "title": {
             "eng": "Macross Love Stories",
@@ -224,6 +243,7 @@
         "developer": "Family Soft",
         "loc_url": "https://hyunxx.tistory.com/32",
         "localization": "천수도인,낭만엘리",
+        "platform": "PC98",
         "release": "1995-07-14",
         "title": {
             "eng": "Macross Skull Leader Complete Pack",
@@ -236,6 +256,7 @@
         "genre": "SRPG",
         "loc_url": "https://pc98library.tistory.com",
         "localization": "YUI",
+        "platform": "PC98",
         "release": "1996-12-20",
         "title": {
             "jpn": "メタ女 ~ 府立メタトポロジー大学付属女子高校SP",
@@ -247,6 +268,7 @@
         "genre": "Puzzle",
         "loc_url": "https://cafe.naver.com/koreaadv/2902",
         "localization": "추리소년",
+        "platform": "PC98",
         "release": "1992-10-09",
         "title": {
             "eng": "Castle of Dr. Brain",
@@ -260,6 +282,7 @@
         "genre": "Card battle",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "19xx-xx-xx",
         "title": {
             "eng": "Sucharaka Junior High-School",
@@ -268,10 +291,11 @@
         }
     },
     "삼국지 2": {
-        "developer": "Koei",
+        "developer": "KOEI",
         "genre": "Simulation",
         "loc_url": "https://k66google.tistory.com/775",
         "localization": "개망초",
+        "platform": "PC98",
         "release": "1990-03-23",
         "title": {
             "jpn": "三国志2",
@@ -282,6 +306,7 @@
         "developer": "ELF",
         "genre": "Strategy",
         "localization": "Edenrock",
+        "platform": "PC98",
         "release": "1991-08-28",
         "title": {
             "eng": "Shangrlia 1",
@@ -294,6 +319,7 @@
         "genre": "Strategy",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1993-09-30",
         "title": {
             "eng": "Shangrlia 2",
@@ -306,6 +332,7 @@
         "genre": "ADV",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1997-05-23",
         "title": {
             "jpn": "性鬼 ~ 陵辱の仮面",
@@ -316,6 +343,7 @@
         "developer": "Artdink",
         "loc_url": "https://pc98library.tistory.com",
         "localization": "YUI",
+        "platform": "PC98",
         "release": "1995-07-21",
         "title": {
             "eng": "Rome wasn't built in a day.",
@@ -323,11 +351,12 @@
             "kor": "시저1-로마는 하루 아침에 이루어지지 않았다"
         }
     },
-    "암흑천년왕국": {
+    "암흑 천년왕국": {
         "developer": "Katty",
         "genre": "Board",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1993-11-11",
         "title": {
             "jpn": "暗黒千年王国 ~ マジカルキュービック",
@@ -340,6 +369,7 @@
         "genre": "ADV",
         "loc_url": "https://pc98library.tistory.com",
         "localization": "YUI",
+        "platform": "PC98",
         "release": "1997-03-28",
         "title": {
             "jpn": "雛鳥の囀",
@@ -351,6 +381,7 @@
         "genre": "ADV",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1996-10-17",
         "title": {
             "eng": "Angel Halo",
@@ -363,6 +394,7 @@
         "genre": "ADV",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1991-06-23",
         "title": {
             "eng": "Elle",
@@ -374,8 +406,10 @@
         "developer": "Neo Geten",
         "loc_url": "https://hyunxx.tistory.com/8",
         "localization": "천수도인",
+        "platform": "PC98",
         "release": "1995-04-28",
         "title": {
+            "eng": "Hokusho",
             "jpn": "臥竜伝 - 三国制覇の計",
             "kor": "와룡전 - 삼국제패의 계략"
         }
@@ -385,6 +419,7 @@
         "genre": "RPG",
         "loc_url": "https://cafe.naver.com/msx/12662",
         "localization": "키티야",
+        "platform": "PC98",
         "release": "1988-12-21",
         "title": {
             "eng": "ULTIMA I - The First Age of Darkness",
@@ -398,6 +433,7 @@
         "genre": "RPG",
         "loc_url": "https://blog.naver.com/kkitty5425/221176789107",
         "localization": "키티야",
+        "platform": "PC98",
         "release": "1987-07-18",
         "title": {
             "eng": "ULTIMA IV - Quest of the Avatar",
@@ -410,6 +446,7 @@
         "genre": "Action RPG",
         "loc_url": "https://nsm53p.tistory.com/390",
         "localization": "NSM53 PROJECT",
+        "platform": "PC98",
         "release": "1988-06-24",
         "title": {
             "eng": "Ys 2",
@@ -418,10 +455,11 @@
         }
     },
     "이인도": {
-        "developer": "Koei",
+        "developer": "KOEI",
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/koeimod/633",
         "localization": "낭만엘리,천수도인",
+        "platform": "PC98",
         "release": "1991-09-27",
         "title": {
             "jpn": "伊忍道〜打倒信長",
@@ -433,6 +471,7 @@
         "genre": "SRPG",
         "loc_url": "https://pc98library.tistory.com",
         "localization": "YUI",
+        "platform": "PC98",
         "release": "1996-12-20",
         "title": {
             "jpn": "ツァイ メタ女",
@@ -444,6 +483,7 @@
         "genre": "ADV",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1995-11-30",
         "title": {
             "eng": "Jack",
@@ -456,6 +496,7 @@
         "genre": "Advanture",
         "loc_rul": "https://cafe.naver.com/koreaadv/2799",
         "localization": "추리소년",
+        "platform": "PC98",
         "release": "1990-11-09",
         "title": {
             "eng": "King's Quest 5",
@@ -467,6 +508,7 @@
         "developer": "TGL",
         "genre": "SRPG",
         "localization": "fsworld",
+        "platform": "PC98",
         "release": "1993-10-15",
         "title": {
             "eng": "Farland Story 1",
@@ -478,6 +520,7 @@
         "developer": "TGL",
         "genre": "SRPG",
         "localization": "fsworld",
+        "platform": "PC98",
         "release": "1994-02-10",
         "title": {
             "eng": "Farland Story 2",
@@ -489,6 +532,7 @@
         "developer": "TGL",
         "genre": "SRPG",
         "localization": "nizin",
+        "platform": "PC98",
         "release": "1995-07-21",
         "title": {
             "eng": "Farland Story 6",
@@ -500,6 +544,7 @@
         "developer": "TGL",
         "genre": "SRPG",
         "localization": "nizin",
+        "platform": "PC98",
         "release": "1995-11-10",
         "title": {
             "eng": "Farland Story 7",
@@ -511,6 +556,7 @@
         "developer": "Kogado",
         "loc_url": "https://m.blog.naver.com/wwc2003/30175110398",
         "localization": "wwc2003 (Unhabby)",
+        "platform": "PC98",
         "release": "1994-01-14",
         "title": {
             "eng": "Power Dolls 1",
@@ -521,6 +567,7 @@
     "파워 돌 2": {
         "developer": "Kogado",
         "localization": "Jin..",
+        "platform": "PC98",
         "release": "1994-12-02",
         "title": {
             "eng": "Power Dolls 2",
@@ -531,6 +578,7 @@
     "파워 돌 2 대시": {
         "developer": "Kogado",
         "localization": "Jin..",
+        "platform": "PC98",
         "release": "1995-05-26",
         "title": {
             "eng": "Power Dolls 2 Dash",
@@ -542,6 +590,7 @@
         "developer": "K.S.K",
         "loc_url": "https://hyunxx.tistory.com/12",
         "localization": "천수도인",
+        "platform": "PC98",
         "release": "1993-07-02",
         "title": {
             "eng": "First Queen 3",
@@ -553,6 +602,7 @@
         "developer": "K.S.K",
         "loc_url": "https://hyunxx.tistory.com/9",
         "localization": "천수도인",
+        "platform": "PC98",
         "release": "1994-06-10",
         "title": {
             "eng": "First Queen 4",
@@ -565,6 +615,7 @@
         "genre": "ADV",
         "loc_url": "https://blog.naver.com/kkitty5425/221738967829",
         "localization": "키티야",
+        "platform": "PC98",
         "release": "1991-12-20",
         "title": {
             "eng": "Fray - In magical adventure",
@@ -577,6 +628,7 @@
         "genre": "ADV",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1996-07-26",
         "title": {
             "jpn": "Piaキャロットへようこそ ~ We've been Waiting for you",
@@ -587,6 +639,7 @@
         "developer": "ELF",
         "genre": "ADV",
         "localization": "파랑새팀",
+        "platform": "PC98",
         "release": "1996-06-07",
         "title": {
             "jpn": "下級生",
@@ -594,10 +647,11 @@
         }
     },
     "항유기": {
-        "developer": "Koei",
+        "developer": "KOEI",
         "genre": "Strategy",
         "loc_url": "https://cafe.naver.com/koeimod/541",
         "localization": "낭만엘리,닥터존스,천사,천수도인",
+        "platform": "PC98",
         "release": "1993-07-21",
         "title": {
             "eng": "Rise of the Phoenix",
@@ -610,6 +664,7 @@
         "genre": "SRPG",
         "loc_url": "https://kkandora.tistory.com",
         "localization": "K.K",
+        "platform": "PC98",
         "release": "1995-07-14",
         "title": {
             "eng": "Horny Sweeper 2",

@@ -2,12 +2,16 @@ import json
 
 
 def main():
-    with open("./list.json", "r", encoding="utf-8") as f:
+    platform = "pc98"
+
+    with open(f"./list_{platform}.json", "r", encoding="utf-8") as f:
         data = json.load(f)
 
     # Check statistics
     stat = dict()
     for k, v in data.items():
+        if "platform" not in v:
+            v["platform"] = platform.upper()
         persons = v.get("localization", "").split(",")
         for p in persons:
             if p not in stat:
@@ -30,7 +34,7 @@ def main():
     for i, t in enumerate(titles, start=1):
         print(f"{i:02d}: {t}")
 
-    with open("list.json", "w", encoding="utf-8") as f:
+    with open(f"list_{platform}.json", "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=4, sort_keys=True)
 
 
