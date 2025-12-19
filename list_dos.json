@@ -114,6 +114,17 @@
             "kor": "로커스 알바"
         }
     },
+    "리저널 파워 2": {
+        "developer": "Cosmos Computer",
+        "localization": "KCT",
+        "platform": "DOS",
+        "release": "1992-03-20",
+        "title": {
+            "eng": "Regional Power 2",
+            "jpn": "レジオナルパワー2",
+            "kor": "리저널 파워 2"
+        }
+    },
     "마크로스 1 - 리멤버 미": {
         "developer": "Family Soft",
         "localization": "*Game Line",
@@ -167,6 +178,17 @@
         "title": {
             "jpn": "ツァイ メタ女",
             "kor": "메타녀 2"
+        }
+    },
+    "무인도 이야기 1": {
+        "developer": "KSS",
+        "genre": "Simulation",
+        "localization": "*다우 시스템",
+        "platform": "DOS",
+        "release": "1994-08-05",
+        "title": {
+            "jpn": "無人島物語",
+            "kor": "무인도 이야기 1"
         }
     },
     "발렌타인 키스": {
@@ -304,6 +326,39 @@
             "kor": "잃어버린 낙원"
         }
     },
+    "파워 돌 1": {
+        "developer": "Kogado",
+        "localization": "*KCT",
+        "platform": "DOS",
+        "release": "1994-01-14",
+        "title": {
+            "eng": "Power Dolls 1",
+            "jpn": "パワードール 1",
+            "kor": "파워 돌 1"
+        }
+    },
+    "파워 돌 2": {
+        "developer": "Kogado",
+        "localization": "*KCT",
+        "platform": "DOS",
+        "release": "1994-12-02",
+        "title": {
+            "eng": "Power Dolls 2",
+            "jpn": "パワードール 2",
+            "kor": "파워 돌 2"
+        }
+    },
+    "파워 돌 2 대시": {
+        "developer": "Kogado",
+        "localization": "*KCT",
+        "platform": "DOS",
+        "release": "1995-05-26",
+        "title": {
+            "eng": "Power Dolls 2 Dash",
+            "jpn": "パワードール 2 ",
+            "kor": "파워 돌 2 대시"
+        }
+    },
     "퍼스트 퀸 4": {
         "developer": "K.S.K",
         "localization": "*KCT",
@@ -313,6 +368,17 @@
             "eng": "First Queen 4",
             "jpn": "ファーストクィーン4 ~ バルシア戦記",
             "kor": "퍼스트 퀸 4 - 바르시아 전기"
+        }
+    },
+    "푸른 늑대와 하얀 암사슴 - 원조비사": {
+        "developer": "KOEI",
+        "genre": "Strategy",
+        "localization": "*비스코",
+        "platform": "DOS",
+        "release": "1992-10-01",
+        "title": {
+            "jpn": "蒼き狼と白き牝鹿 ~ 元朝秘史",
+            "kor": "푸른 늑대와 하얀 암사슴 3 - 원조비사"
         }
     },
     "푸른 늑대와 하얀 암사슴 - 징기스칸": {
@@ -325,17 +391,6 @@
             "eng": "Genghis Khan",
             "jpn": "蒼き狼と白き牝鹿 チンギス=ハン",
             "kor": "푸른 늑대와 하얀 암사슴 - 징기스칸"
-        }
-    },
-    "푸른 늑대와 하얀 암사슴 - 원조비사": {
-        "developer": "KOEI",
-        "genre": "Strategy",
-        "localization": "*비스코",
-        "platform": "DOS",
-        "release": "1992-10-01",
-        "title": {
-            "jpn": "蒼き狼と白き牝鹿 ~ 元朝秘史",
-            "kor": "푸른 늑대와 하얀 암사슴 3 - 원조비사"
         }
     },
     "프린세스 메이커 1": {

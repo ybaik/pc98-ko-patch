@@ -153,17 +153,6 @@
             "kor": "레드 아이"
         }
     },
-    "레지널 파워 3 스페셜": {
-        "developer": "Cosmos Computer",
-        "loc_url": "https://pc98library.tistory.com",
-        "localization": "YUI",
-        "platform": "PC98",
-        "release": "1994-12-17",
-        "title": {
-            "jpn": "レジオナルパワー3 スペシャル",
-            "kor": "레지널 파워 3 스페셜"
-        }
-    },
     "로얄 블러드": {
         "developer": "KOEI",
         "genre": "Strategy",
@@ -188,6 +177,18 @@
             "eng": "Locus Alba",
             "jpn": "ロクス・アルバ",
             "kor": "로커스 알바"
+        }
+    },
+    "리저널 파워 3 스페셜": {
+        "developer": "Cosmos Computer",
+        "loc_url": "https://pc98library.tistory.com",
+        "localization": "YUI",
+        "platform": "PC98",
+        "release": "1994-12-17",
+        "title": {
+            "eng": "Regional Power 3 Special",
+            "jpn": "レジオナルパワー3 スペシャル",
+            "kor": "리저널 파워 3 스페셜"
         }
     },
     "마블 쿠킹": {
