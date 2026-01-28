@@ -1,9 +1,4 @@
 {
-    "custom_codes": {
-        "01": "␁",
-        "1B": "␊"
-    },
-    "053B4=053B6": "0x:EB1E90#HDD모드 위한 B드라이브 입력 메세지 제거",
     "0406B=0406C": "0x:DD1C# OPENGRP.DAT",
     "041AD=041AE": "0x:B843# OPENGRP.DAT",
     "044C7=044C8": "0x:1180# OPENGRP.DAT",

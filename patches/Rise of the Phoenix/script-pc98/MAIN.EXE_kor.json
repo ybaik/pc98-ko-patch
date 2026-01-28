@@ -1,10 +1,4 @@
 {
-    "custom_codes": {
-        "00": "␀",
-        "0A": "␂",
-        "1B": "␊",
-        "0000": "␀"
-    },
     "1B85D=1B85E": "0x:CC5B# GRP3.KR, upper map offset",
     "1B864=1B865": "0x:CAB9# GRP3.KR, upper map size",
     "1B884=1B887": "0x:9615BA01# GRP3.KR, lower map offset",

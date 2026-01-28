@@ -1,7 +1,4 @@
 {
-    "custom_codes": {
-        "0A": "␂"
-    },
     "custom_input": {
         "3DAA=3DAD": "0x:2056BA03",
         "3EAF=3EB2": "0x:8281BA03",
