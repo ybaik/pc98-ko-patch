@@ -8,6 +8,7 @@
 |랑페뢰르|1990|전용폰트|[L'empereur](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/L'empereur)|
 |로얄 블러드 1|1991|전용폰트|[Royal Blood](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Royal%20Blood%201)|
 |수호전|1991|font_jin|[Suho 1](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Suho%201)|
+|신들의 대지 - 고사기 외전|1993|font_jin[Kami](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Kami)|
 |와룡전|1994|font_jin|[Garyouden](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Garyouden)|
 |이인도 타도 노부나가|1991|전용폰트|[Inindo](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Inindo)|
 |초시공요새 마크로스 1 리멤버 미|1993|font_jin|[Macross 1](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Macross%201)|
