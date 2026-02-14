@@ -4,6 +4,7 @@
 
 |이름|발매|폰트|폴더|
 |--|--|--|--|
+|노부나가의 야망 - 전국군웅전|1989|전용폰트|[Nobu 3](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Nobu%203)|
 |다크 세라핌|1995|font_jin|[Dark Seraphim](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Dark%20Seraphim)|
 |랑페뢰르|1990|전용폰트|[L'empereur](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/L'empereur)|
 |로얄 블러드 1|1991|전용폰트|[Royal Blood](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Royal%20Blood%201)|
