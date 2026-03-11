@@ -1,4 +1,7 @@
 {
+    "0A737=0A738": "0x:5130#위",
+    "0A758=0A759": "0x:513A#끝",
+    "0A779=0A77A": "0x:2331#은",
     "1B85D=1B85E": "0x:F05B# GRP3.KR, upper map offset",
     "1B864=1B865": "0x:E6BA# GRP3.KR, upper map size",
     "1B884=1B887": "0x:D616BA01# GRP3.KR, lower map offset",
