@@ -25,3 +25,4 @@
 |퍼스트 퀸 3|1993|font_jin|[First Queen 3](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/First%20Queen%203)|
 |퍼스트 퀸 4|1994|font_jin|[First Queen 4](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/First%20Queen%204)|
 |항유기|1993|font_jin|[Rise of the Phoenix](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Rise%20of%20the%20Phoenix)|
+|혼의 문 - 단테의 신곡에서|1992|font_jin|[Tamashii](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Tamashii)|
