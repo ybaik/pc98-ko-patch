@@ -13,6 +13,7 @@
 |수호전|1991|font_jin|PC98|[Suho 1](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Suho%201)|
 |신들의 대지 - 고사기 외전|1993|font_jin|PC98/DOS|[Kami](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Kami)|
 |와룡전|1994|font_jin|PC98|[Garyouden](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Garyouden)|
+|유럽전선|1992|전용폰트|PC98|[Europe](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Europe)|
 |이인도 타도 노부나가|1991|전용폰트|PC98|[Inindo](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Inindo)|
 |초시공요새 마크로스 1 리멤버 미|1993|font_jin|PC98|[Macross 1](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Macross%201)|
 |초시공요새 마크로스 2 스컬리더|1994|font_jin|PC98|[Macross 2](https://github.com/ybaik/pc98-ko-patch/tree/main/patches/Macross%202)|
